@@ -1,0 +1,6 @@
+streamlit
+streamlit-extras
+streamlit-option-menu
+pdfminer.six
+python-dotenv
+openai
